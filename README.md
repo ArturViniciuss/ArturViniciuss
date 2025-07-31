@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">Olá! Eu sou Artur Vinicius, estudante da Engenharia da Computação, natural de Manaus, com 22 anos de idade, apaixonado por tecnologia e ansioso para contribuir para o mundo da computação. 💻🔍</p>
+<p align="left">Olá! Eu sou Artur Vinicius, estudante da Engenharia da Computação, natural de Manaus, com 24 anos de idade, apaixonado por tecnologia e ansioso para contribuir para o mundo da computação. 💻🔍</p>
 
 ###
 
